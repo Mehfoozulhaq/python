@@ -9,7 +9,7 @@ def group_words(words):
 
     return list(groups.values())
 
-print(group_words(["eat", "tea", "tan", "nat"]))
+print(group_words(["eat", "tea", "sat", "tas"]))
 
 
 

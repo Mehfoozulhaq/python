@@ -1,4 +1,4 @@
-arr = [10, 5, 20, 8, 12]
+arr = [11, 5, 20, 8, 12]
 n = len(arr)
 
 largest = arr[0]

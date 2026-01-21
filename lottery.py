@@ -1,7 +1,5 @@
-import config
 
-# This line creates a variable to store the numbers defined by the other file (which you shouldn't change)
-lottery_numbers = config.lottery_numbers
+lottery_numbers = {1,2,3,4,5,6,7}
 
 # Here are your players; find out who has the most numbers matching lottery_numbers!
 players = [

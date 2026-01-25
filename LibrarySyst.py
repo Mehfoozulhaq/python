@@ -67,7 +67,7 @@ def main():
 0. Exit
 """)
 
-        choice = input("Enter choice: ")
+        choice = input("Enter Your choice: ")
 
         if choice == "1":
             lib.issue_book(input("Enter book name: "))
